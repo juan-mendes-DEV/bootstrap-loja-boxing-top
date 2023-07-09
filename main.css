@@ -1,0 +1,71 @@
+*{
+    font-family: 'Roboto Mono', monospace;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(236, 236, 236);
+}
+
+img:hover{
+    border-radius: 1px solid black;
+    box-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+.princip:hover,.logo:hover{
+    border: none;
+    box-shadow: 2px 2px 2px transparent;
+}
+.princip{
+    margin-right: 10px;
+}
+.cadastro a{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 12px;
+}
+.cadastro{
+    padding: 0px;
+}
+.lateral{
+    border-left:1px solid rgb(145, 145, 145) ;
+}
+.lateral p{
+    padding: 2px;
+}
+.promocao,.destaque{
+    border-radius: 10px;
+    color: azure;
+}
+img{
+    margin: 2px;
+    
+}
+.cabecalho{
+    padding: 15px;
+}
+.rodape{
+    padding: 12px;
+}
+.botao{
+    width: 80%;
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+.Botao{
+    width: 60%;
+    margin-bottom: 1em;
+    margin-top: -0.5em;
+}
+.sobreN{
+    margin-right: 100px;
+    background-image:linear-gradient(50deg, white,black);
+    color: whitesmoke;
+}
+.submenu a{
+    
+    color: white;
+}
+.submenu{
+    background-color: dimgray;
+}
